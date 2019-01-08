@@ -1,15 +1,8 @@
 {
 	"global": {
-		"merged":      "has been accepted and merged"
-	},
-	"typo": {
-		"pending":     "is pending for a review from an Informo core team member",
-		"review":      "is being reviewed by an Informo core team member",
-		"won't merge": "has been refused by its reviewer"
-	},
-	"behaviour": {
-		"review":       "is now open to public review for the next 14 days",
-		"final review": "is being reviewed by an Informo core team member",
-		"won't merge":  "has been refused by an Informo core team member"
+		"proposal": "has been created",
+		"proposed-final-comment-period": "has had a final comment period proposed",
+		"final-comment-period": "has now entered final comment period!",
+		"finished-final-comment-period": "has now finished final comment period"
 	}
 }
