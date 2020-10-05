@@ -3,6 +3,7 @@
 		"proposal": "has been created",
 		"proposed-final-comment-period": "has had a final comment period proposed",
 		"final-comment-period": "has now entered final comment period!",
-		"finished-final-comment-period": "has now finished final comment period"
+		"finished-final-comment-period": "has now finished final comment period",
+		"merged": "has been merged to the spec! 🎉"
 	}
 }
